@@ -15,7 +15,7 @@ At the core of our processes to deliver this experience is our people, and we wo
 We're currently hiring for various roles. 
 
 We are Software Engineer who are:
-- passionate about building impactful products and solving real world problems.
+- Passionate about building impactful products and solving real world problems.
 - Obsessed with self-improvement about growth.
 - Love to meet and work with starter and dedicated folks 
 - Committed and focused on achieving our goals.
