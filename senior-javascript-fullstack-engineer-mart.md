@@ -1,6 +1,6 @@
-<img src="https://i.ibb.co/nBgYWwc/logo-en.png" alt="Mart" width="250"/>
+<p align="center"><img src="https://i.ibb.co/nBgYWwc/logo-en.png" alt="Mart" width="250"/></p>
 
-# Senior Software Engineer - FullStack Javascript (React, ReactNative, Typescript, Nodejs) 
+<h1 align="center">Senior Software Engineer - FullStack Javascript (React, ReactNative, Typescript, Nodejs) </h1>
 
 ### About us
 
