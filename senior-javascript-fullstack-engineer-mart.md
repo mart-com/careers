@@ -37,7 +37,7 @@ We will encourage and support you to:
 
 #### Your qualifications
 
-- 3+ years of professional experience as Software Engineer.
+- 3+ years of professional experience as Software Engineer in e-commerce platforms.
 - You are skilled enough within your area of expertise to own the development on a non-trivial change your first month at **Mart**.
 - You are passionate about creating high quality software and understand how to make appropriate tradeoffs (e.g. cut scope) to ship quickly when necessary.
 - You are a humble learner who values continuous growth and learns new skills quickly.
