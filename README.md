@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co/nBgYWwc/logo-en.png" alt="Mart" width="250"/>
   </p>
   
-<h1 align="center">Build the Future of Fresh Grocery Delivery</h1>
+<h1 align="center">Future Grocery Reimagined</h1>
 
 ### Who are we?
 We are building the future of grocery online shopping experience, where we offer the most innovative and convenient way of online grocery shopping experience, while providing unparalleled quality of products with affordable price.
